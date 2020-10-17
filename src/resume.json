@@ -1,0 +1,209 @@
+{
+  "basics": {
+    "name": "Is'mailDev",
+    "label": "Full Stack Developer",
+    "picture": "images/ismail.jpg",
+    "x_pictureFallback": "images/ismail.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Going on 5 years of experience in IT. Currently I’m working in a startup company. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "location": {
+      "country": "Indonesia",
+      "countryCode": "IND",
+      "region": "Tangerang"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "jcoelho",
+        "url": "",
+        "x_icon":"fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "josecoelho93",
+        "url": "",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "Aismail7",
+        "url": "https://github.com/Aismail7",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pt. Dotcom Indonesia",
+      "position": "Back End Developers",
+      "website": "https://www.dotcom.id/",
+      "startDate": "2018-10-01",
+      "endDate": "",
+      "summary": "Joined the company to build a product property management system (promis).",
+      "highlights": []
+    },
+    {
+      "company": "PT. Trimagnus Prima Dharma",
+      "position": "IT Development",
+      "website": "https://trimagnus.com/",
+      "startDate": "2017-10-01",
+      "endDate": "",
+      "summary": "Joined a startup company located in the Alamsutra area, South Tangerang. in this company I work on many webbase or website projects such as: ERP, POS, e-commerce etc.",
+      "highlights": []
+    },
+    {
+      "company": "CV. Kreasi Solusi Infotek",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-01-05",
+      "endDate": "",
+      "summary": "First experience in IT, as a junior programmer. I kept practicing and learning coding. with php scriptcase generator I started working as a web developer. from this company I have experience out of town from Bali to Borneo.",
+      "highlights": []
+    },
+    {
+      "company": "Pt. Panca Prima EkaBrothers, Tbk",
+      "position": "Admin Warehouse",
+      "website": "",
+      "startDate": "2009-05-13",
+      "endDate": "",
+      "summary": "First work after graduating from school in the field of data management and the provider of goods in warehouses in garment factory.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Madeira",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-15",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Jquery",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "SCSS",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "HTML5",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "REST API",
+      "level": "Advanced",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "AngularJS",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Laravel",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "CodeInteger",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Scriptcase Generator PHP",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Firebase NoSql",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Postgres",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Postgres",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Like coffee",
+      "x_icon": "fa-coffee"
+    },
+    {
+      "name": "Manga lover",
+      "x_icon": "fa-book"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
